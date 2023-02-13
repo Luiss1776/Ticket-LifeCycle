@@ -37,6 +37,8 @@ CREATING A TICKET AS A USER.
 
 In a help desk enviornment a user will submit a issue to be resolved in a form of a help ticket. The user will create an ticket through the help desk platform and an agent will resolve it in a quckly time frame. 
   
+A link to create tickets as a user or client. http://localhost/osTicket/
+  
 By creating a ticket, we will click the link provided above and scroll to the blue tab named, "Open a new ticket." Fill the information regarding your contact information inside the ticket prompt. When done, press submit and the new ticket will be submitted to an agent to be resolved 
 </p>
 <br />
@@ -47,7 +49,7 @@ By creating a ticket, we will click the link provided above and scroll to the bl
 <p>
 ASSIGNMENT AND COMMUNICATION 
 
-Once the help ticket is submitted by the user, the ticket then goes through a few procedures to get resolved properly on time. A team or agent will inspect the ticket and verify all SLA standards are accurate and in the right department. 
+Once the help ticket is submitted by the user, the ticket then goes through a few procedures to get resolved properly on time. A team or agent will inspect the ticket and verify all SLA standards are accurate and in the right department. You can keep in contact with the user regarding any updates on the issue. 
   
 By doing this, go into the admin panel and under the tickets tab, you can verify any new tickets and reassign them if needed. Click on a ticket and readjust any information if needed including, priorities, SLA, and department ticket assignment. Any adjustments made to the ticket can be found under the ticket thread. After, you can then reply to the customer and see if any issues have been resolved or if it needs further investigating. 
 </p>
@@ -59,9 +61,11 @@ By doing this, go into the admin panel and under the tickets tab, you can verify
 <p>
 WORKING THE ISSUES 
 
-Always prioritize and evaluate any issue based on the severity and the SLA provided. Check to see if you have any collaborations with another agent or team. Whenever the issue resolves, you can reply to the end user and click the status of the issue, and initially press post reply. Any resolved tickets will be documented inside the closed ticket tab. 
+As an agent, you should prioritize and evaluate any issue based on severity and any SLA's provided. Check to see if you have any collaborations with another agent or team. Whenever the issue resolves, you can reply to the end user and click the status of the issue, and initially press post reply. Any resolved tickets will be documented inside the closed ticket tab. 
   
 USER RESOLUTION AND FEEDBACK
+  
+Once the ticket is resolved, the user can see if the ticket has been completed and problem should be solved. 
   
 
 </p>
