@@ -20,9 +20,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Windows 10 🪟</b> (21H2)
 
-<h2>Ticket Lifecycle Stages</h2>
+<h2>Ticket Lifecycle Stages 📝</h2>
 
-- Intake
+- Creating A Ticket 
 - Assignment and Communication
 - Working the Issue
 - Resolution
@@ -30,25 +30,34 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7oLHsQc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+CREATING A TICKET AS A USER. 
+
+We will first make a ticket to be an end user  by going to the link provided above. Once signed in, scroll to the blue tab named, Open a new ticket. Fill out any information regarding the ticket in the prompt. Once done, press submit and the new ticket will be submitted to an agent
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RQplCNU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+ASSIGNMENT AND COMMUNICATION 
+
+In the admin panel, under the tickets tab, you can verify any new tickets and reassign them if needed. Click on a ticket and readjust any information if needed including, priorities, SLA, departments ticket assignment.  Any adjustments made on the ticket can be found under the ticket thread. After, you can then reply to the customer and see if any issues have been resolved or if it needs further investigating. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1CowSPP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+WORKING THE ISSUES 
+
+Always prioritize and evaluate any issue  based on the severity and the SLA provided.  Check to see if you have any collaborations with another agent or team. When ever the issue is resolved you can reply to the end user and click the status of the issue, and initially press post reply. Any resolved tickets will be documented inside the closed ticket tab. 
 </p>
 <br />
