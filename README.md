@@ -33,7 +33,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/7oLHsQc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
 CREATING A TICKET AS A USER. 
 
 We will first make a ticket to be an end user  by going to the link provided above. Once signed in, scroll to the blue tab named, Open a new ticket. Fill out any information regarding the ticket in the prompt. Once done, press submit and the new ticket will be submitted to an agent
@@ -44,7 +43,6 @@ We will first make a ticket to be an end user  by going to the link provided abo
 <img src="https://i.imgur.com/RQplCNU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
 ASSIGNMENT AND COMMUNICATION 
 
 In the admin panel, under the tickets tab, you can verify any new tickets and reassign them if needed. Click on a ticket and readjust any information if needed including, priorities, SLA, departments ticket assignment.  Any adjustments made on the ticket can be found under the ticket thread. After, you can then reply to the customer and see if any issues have been resolved or if it needs further investigating. 
@@ -55,7 +53,6 @@ In the admin panel, under the tickets tab, you can verify any new tickets and re
 <img src="https://i.imgur.com/1CowSPP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
 WORKING THE ISSUES 
 
 Always prioritize and evaluate any issue  based on the severity and the SLA provided.  Check to see if you have any collaborations with another agent or team. When ever the issue is resolved you can reply to the end user and click the status of the issue, and initially press post reply. Any resolved tickets will be documented inside the closed ticket tab. 
