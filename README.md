@@ -59,5 +59,9 @@ In the admin panel, under the tickets tab, you can verify any new tickets and re
 WORKING THE ISSUES 
 
 Always prioritize and evaluate any issue  based on the severity and the SLA provided.  Check to see if you have any collaborations with another agent or team. When ever the issue is resolved you can reply to the end user and click the status of the issue, and initially press post reply. Any resolved tickets will be documented inside the closed ticket tab. 
+  
+USER RESOLUTION AND FEEDBACK
+  
+
 </p>
 <br />
