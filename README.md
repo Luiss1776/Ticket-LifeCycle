@@ -35,7 +35,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
 CREATING A TICKET AS A USER. 
 
-In a help desk enviornment a user will submit a issue to be resolved in a form of a help ticket. The user will create an ticket through the help desk platform and an agent will resolve it in a quckly time frame. By creating a ticket, we will click the link provided above and scroll to the blue tab named, "Open a new ticket." Fill the information regarding your contact information inside the ticket prompt. When done, press submit and the new ticket will be submitted to an agent to be resolved 
+In a help desk enviornment a user will submit a issue to be resolved in a form of a help ticket. The user will create an ticket through the help desk platform and an agent will resolve it in a quckly time frame. 
+  
+By creating a ticket, we will click the link provided above and scroll to the blue tab named, "Open a new ticket." Fill the information regarding your contact information inside the ticket prompt. When done, press submit and the new ticket will be submitted to an agent to be resolved 
 </p>
 <br />
 
@@ -45,7 +47,9 @@ In a help desk enviornment a user will submit a issue to be resolved in a form o
 <p>
 ASSIGNMENT AND COMMUNICATION 
 
-Once the help ticket is submiited by the user, the ticket then goes through a few procedures to get resolved properly in a timly manor. A team or agent will inspect the ticket and verify all SLA standards are acurrate and in the right department. By doing this, simply go into the admin panel and under the tickets tab, you can verify any new tickets and reassign them if needed. Click on a ticket and readjust any information if needed including, priorities, SLA, departments ticket assignment.  Any adjustments made on the ticket can be found under the ticket thread. After, you can then reply to the customer and see if any issues have been resolved or if it needs further investigating. 
+Once the help ticket is submiited by the user, the ticket then goes through a few procedures to get resolved properly in a timly manor. A team or agent will inspect the ticket and verify all SLA standards are acurrate and in the right department. 
+  
+By doing this, simply go into the admin panel and under the tickets tab, you can verify any new tickets and reassign them if needed. Click on a ticket and readjust any information if needed including, priorities, SLA, departments ticket assignment.  Any adjustments made on the ticket can be found under the ticket thread. After, you can then reply to the customer and see if any issues have been resolved or if it needs further investigating. 
 </p>
 <br />
 
