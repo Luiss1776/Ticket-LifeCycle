@@ -6,10 +6,6 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used 💻 </h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -37,7 +33,7 @@ CREATING A TICKET AS A USER.
 
 In a help desk enviornment a user will submit a issue to be resolved in a form of a help ticket. The user will create an ticket through the help desk platform and an agent will resolve it in a quckly time frame. 
   
-A link to create tickets as a user or client. http://localhost/osTicket/
+To create tickets as a User or Client. http://localhost/osTicket/
   
 By creating a ticket, we will click the link provided above and scroll to the blue tab named, "Open a new ticket." Fill the information regarding your contact information inside the ticket prompt. When done, press submit and the new ticket will be submitted to an agent to be resolved 
 </p>
