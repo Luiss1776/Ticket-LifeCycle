@@ -20,7 +20,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Create a help ticket as an End-user
 - Assignment and Communication
-- Work on the issue for the Client/ End-User.
+- Opperate on the issue for the Client/ End-User.
 - Resolution & Feedback 
 
 <h2>Lifecycle Stages</h2>
