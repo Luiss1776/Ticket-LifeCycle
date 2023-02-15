@@ -18,10 +18,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages 📝</h2>
 
-- Creating A Ticket 
+- Create a help ticket as an End-user
 - Assignment and Communication
-- Working the Issue
-- Resolution
+- Work on the issue for the Client/ End-User.
+- Resolution & Feedback 
 
 <h2>Lifecycle Stages</h2>
 
